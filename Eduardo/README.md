@@ -1,2 +1,2 @@
-﻿# Formação ADVPL\Eduardo Willians
-Fontes desenvolvidos durante a Formação ADVPL 2018
+﻿# Formação ADVPL\ Instrutor Eduardo Willians
+Fontes desenvolvidos durante a Formação ADVPL 2018-1
