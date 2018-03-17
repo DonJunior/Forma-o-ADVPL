@@ -2,10 +2,10 @@
 // #                       Formação Totvs - Programação ADVPL 2018/1                       # 
 // #########################################################################################
 // -----------+-----------------+-----------------------------------------------------------
-// Data       | Autor: 	        | Descricao
+// Data:      | Autor:          | Descrição:
 // -----------+-----------------+-----------------------------------------------------------
-// 11/03/2018 | Don Carvalho	| Exemplo estrutura repetição FOR para cálculo numero par.
-//            |                 | Apostila Página 191.
+// 11/03/2018 | Don Junior      | Exemplo estrutura repetição FOR para cálculo numero par.
+//            |                 | Apostila Página 191
 // -----------+-----------------+-----------------------------------------------------------
 
 #include 'protheus.ch'

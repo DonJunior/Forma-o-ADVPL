@@ -2,10 +2,10 @@
 // #                       Formação Totvs - Programação ADVPL 2018/1                       # 
 // #########################################################################################
 // -----------+-----------------+-----------------------------------------------------------
-// Data       | Autor: 	        | Descricao
+// Data:      | Autor:          | Descrição:
 // -----------+-----------------+-----------------------------------------------------------
-// 11/03/2018 | Don Carvalho	| Exemplo estrutura repetição While para cálculo numero par.
-//            |                 | Apostila Página 192.
+// 11/03/2018 | Don Junior      | Exemplo estrutura repetição While para cálculo numero par.
+//            |                 | Apostila Página 192
 // -----------+-----------------+-----------------------------------------------------------
 
 #include 'protheus.ch'

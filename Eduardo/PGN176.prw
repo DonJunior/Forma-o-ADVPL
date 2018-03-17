@@ -2,10 +2,10 @@
 // #                       Formação Totvs - Programação ADVPL 2018/1                       # 
 // #########################################################################################
 // -----------+-----------------+-----------------------------------------------------------
-// Data       | Autor: 	        | Descricao
+// Data:      | Autor:          | Descrição:
 // -----------+-----------------+-----------------------------------------------------------
-// 11/03/2018 | Don Carvalho	| Exemplo estrutura repetição FOR para cálculo Fatorial.
-//            |                 | Apostila Página 176.
+// 11/03/2018 | Don Junior      | Exemplo estrutura repetição FOR para cálculo Fatorial.
+//            |                 | Apostila Página 176
 // -----------+-----------------+-----------------------------------------------------------
 
 #include 'protheus.ch'
